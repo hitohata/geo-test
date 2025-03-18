@@ -40,7 +40,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>NSLocationWhenInUseDescription</key>
-	<string>location</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Enable location services to fully experience the guides.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Providing your location is required for accurate guide recommendations.
+</string>
 </dict>
 </plist>
